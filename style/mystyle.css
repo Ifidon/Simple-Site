@@ -1,0 +1,27 @@
+/*.jumbotron {
+	background-image: url("images/jumbotron.jpg");
+}*/
+
+footer {
+	background: #eee;
+	margin-top: 20px;
+	padding-top: 20px;
+}
+
+body {
+	background: #000000;
+}
+
+#st1, #st2, #st3 {
+	text-align: center;
+	color: #ffffff;
+}
+
+#s1, #s2, #s3 {
+	
+	color: #ffffff;
+}
+
+a {
+	text-decoration:  none;
+}
