@@ -25,3 +25,11 @@ body {
 a {
 	text-decoration:  none;
 }
+
+.icon {
+	padding: 10px;
+}
+
+.footer-text {
+color: #337ab7;
+}
